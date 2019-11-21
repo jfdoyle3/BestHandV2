@@ -15,7 +15,7 @@ namespace BestHandV2
         public List<List<Card>> Deal(int players, int hand)
         {
             // need a Jagged List/Array to put/remove any amount of cards on the Table in any position/cell/index.
-            // need a Jagged List/Array to have any amount of players from 1 - 52 / Hand amout 1 - 52 cards.
+            // need a Jagged List/Array to have any amount of players from 1 - 52 / Hand amount 1 - 52 cards.
             
             //List<List<Card>>  outer List: Players  /  inner List: Hands
             
