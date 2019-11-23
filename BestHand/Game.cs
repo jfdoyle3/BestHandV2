@@ -62,39 +62,6 @@ namespace BestHandV2
 
             Console.WriteLine("\n\nWinner: {0}",maxIndex);
 
-
-
-
-            //---------------------------------------------------
-            // tally hands
-            // p1Total += hands[0][p1].Value;
-
-            // get Max and index number
-           
-            // ---------------------------------------------------
-
-            //int p1Total = 0;
-            //int p2Total = 0;
-            //Console.Write("Player 1: ");
-            //for (int p1=0; p1<hands[0].Count; p1++)
-            //{
-            //    p1Total += hands[0][p1].Value;
-            //    Console.Write("{0}{1} ",hands[0][p1].Value,hands[0][p1].SuitSym());
-            //}
-            //Console.Write("  Total:  {0}",p1Total);
-            //Console.Write("\nPlayer 2: ");
-            //for (int p2=0; p2<hands[1].Count; p2++)
-            //{
-            //    p2Total += hands[1][p2].Value;
-            //    Console.Write("{0}{1} ", hands[1][p2].Value, hands[1][p2].SuitSym());
-            //}
-            //Console.Write("  Total:  {0}\n\n", p2Total);
-            //if (p1Total>p2Total)
-            //    Console.WriteLine("Player 1 Wins");
-            //if (p1Total<p2Total)
-            //    Console.WriteLine("Player 2 Wins");
-            //if (p1Total==p2Total)
-            //    Console.WriteLine("Draw");
         }
     }
 }
